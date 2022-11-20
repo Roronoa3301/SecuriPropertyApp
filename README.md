@@ -2,7 +2,7 @@
 
 A Flutter project.
 
-## Getting Started
+## Project Description
 
 Its an app that is based mainly on IOT based security. 
 It features electronics locks, cameras and a face recognition based Unlocker all of which are controlled remotely.
